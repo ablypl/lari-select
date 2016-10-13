@@ -23,7 +23,7 @@
             },
             // select on init
             selected: {
-                default: false
+                default: () => []
             },
             labels: {
                 default: () => []
