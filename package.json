@@ -1,6 +1,6 @@
 {
   "name": "lari-select",
-  "version": "0.0.1",
+  "version": "1.0.0",
   "description": "Vue Select Component",
   "main": "src/Index.vue",
   "peerDependencies": {

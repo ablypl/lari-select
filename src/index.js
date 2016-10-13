@@ -1,7 +1,7 @@
-import multiselect from './LariMultiSelect.vue'
-import select from './LariSelect.vue'
+import LariMultiselect from './LariMultiSelect.vue'
+import LariSelect from './LariSelect.vue'
 
 export{
-    select,
-    multiselect
+    LariSelect,
+    LariMultiselect
 }
