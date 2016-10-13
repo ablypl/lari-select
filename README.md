@@ -52,6 +52,7 @@ $ npm install lari-select --save
 #### Single selected
 
 Available props:
+
 *url: { default: '/tags'} - url for remote results and store new records (RESTFul Resource)
 *field: { default: 'name' } - variable from object to display. Eg. If your object looks like **{ id: 1,  title: "test title" }** you should change it into 'title';
 *name: {} - input field name. For multiple select its an array, so you dont need to include '[]'
