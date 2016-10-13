@@ -1,4 +1,4 @@
-# Datepicker
+# Lari Select
 
 Select component for vuejs
 
