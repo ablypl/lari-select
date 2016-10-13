@@ -7,7 +7,7 @@
     "vue": "^2.0.1",
     "vue-resource": "^1.0.3"
   },
-  "repository": "git+https://github.com/SebastianSzczepanski/lari-select.git",
+  "repository": "git+https://github.com/ablydev/lari-select.git",
   "keywords": [
     "vue",
     "vue-resource",
