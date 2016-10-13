@@ -1,0 +1,22 @@
+{
+  "name": "lari-select",
+  "version": "0.0.1",
+  "description": "Vue Select Component",
+  "main": "Index.vue",
+  "peerDependencies": {
+    "vue": "^2.0.1",
+    "vue-resource": "^1.0.3"
+  },
+  "repository": "git+https://github.com/SebastianSzczepanski/lari-select.git",
+  "keywords": [
+    "vue",
+    "vue-resource",
+    "select",
+    "tags",
+    "lari",
+    "select2",
+    "multiselect"
+  ],
+  "author": "Sebastian Szczepanski <sebastian@ably.pl>",
+  "license": "MIT"
+}
