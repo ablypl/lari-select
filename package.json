@@ -2,7 +2,7 @@
   "name": "lari-select",
   "version": "1.0.0",
   "description": "Vue Select Component",
-  "main": "src/Index.vue",
+  "main": "src/index.js",
   "peerDependencies": {
     "vue": "^2.0.1",
     "vue-resource": "^1.0.3"
