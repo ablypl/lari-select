@@ -79,12 +79,10 @@
                     this.loading = true
 
                     this.$http.post(this.url, { [this.field]: this.search }).then(response => {
-                        if (response.ok) {
                             self.push(response.data)
                             this.items.push(response.data)
                             self.loading = false
                             this.search = ''
-                        }
                     })
                 }
             },
