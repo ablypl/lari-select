@@ -88,7 +88,8 @@
             :withcreate="withcreate"
             :resources="resources"
             :selected="[]"
-            :url="url"            
+            :url="url"
+            :labels="lablels"
             ref="dropdown" v-cloak></select-dropdown>
         <div v-if="opened" class="l-overlay" @click="opened = false"></div>
     </div>

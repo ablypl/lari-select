@@ -51,11 +51,9 @@
                 if (!this.cached && !this.resources) {
                     this.loading = true
                     this.$http.get(this.url).then(response => {
-                        if (response.ok) {
-                            this.items = response.data
-                            this.loading = false
-                            this.cached = true
-                        }
+                        this.items = response.data;
+                        this.loading = false;
+                        this.cached = true;
                     })
                 }
                 if (this.resources) {
